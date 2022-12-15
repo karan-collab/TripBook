@@ -5,4 +5,5 @@ Built Using modern technologies: Express,mongoDB,mongoose,nodejs,pug,parcel Wrap
 <br />[Website Link](https://trip-booking.onrender.com/)
 <br />Test User - <br />
 email: sophie@example.com <br />
-pass: test1234
+pass: test1234 <br />
+As the website is deployed on a free server the site will sleep after 15 mins of inactivity so it will take longer than usual to load.
