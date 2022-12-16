@@ -14,6 +14,6 @@ pass: test1234 <br />
 As the website is deployed on a free server the site will sleep after 15 mins of inactivity so it will take longer than usual to load.
 <br />
 
-## Screenshot of Interface
+## Screenshot of the Interface
 
 <img width="1380" alt="Screen Shot 2022-12-16 at 7 47 49 PM" src="https://user-images.githubusercontent.com/57176666/208118062-fff67c13-46fb-43d1-bae5-2acdf7d68a58.png">
